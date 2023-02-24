@@ -25,12 +25,5 @@ This particular dataset holds data from 50 startups in New York, California, and
 3. Marketing spending: The amount which startups are spending on marketing strategies.
 4. State: To which state that particular startup belongs.
 5. Profit: How much profit that particular startup is making.
-Table of content
-1. Difference between Linear Regression and Multiple linear regression
-2. Importing libraries
-3. Analyzing the data
-4. EDA on the dataset
-4.1. Data Visualization
-4.2. Feature exploration
-5. Model development
-6. Model evaluation
+
+
