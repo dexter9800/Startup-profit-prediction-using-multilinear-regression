@@ -25,5 +25,7 @@ This particular dataset holds data from 50 startups in New York, California, and
 3. Marketing spending: The amount which startups are spending on marketing strategies.
 4. State: To which state that particular startup belongs.
 5. Profit: How much profit that particular startup is making.
+CREATED STREAMLIT APPLICATION
+![DFGHJK](https://user-images.githubusercontent.com/103353253/221416438-6c7d0cf6-7b02-43d7-bb6e-5e1dc7d9757e.png)
 
 
